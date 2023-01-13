@@ -126,10 +126,6 @@ A good chunk of these addresses were manually found using the tutorial provided 
 **0x52DC0**
 > Levels\FBZ\Palettes\FBZ1.bin
 
-### Flying Battery Airship (MHZ-FBZ Transition Cutscene)
-**0x550DE**
-> Levels\MHZ\Palettes\Act 2 Ship.bin
-
 ## Death Egg Zone
 ### DEZ Act 1
 **0xA98BC**
