@@ -122,7 +122,7 @@ A good chunk of these addresses were manually found using the tutorial provided 
 > Levels\MHZ\Palettes\End Boss.bin
 
 ## Flying Battery Zone
-### Act 1 Fg
+### Act 1 Bg Indors
 **0x52DC0**
 > Levels\FBZ\Palettes\FBZ1.bin
 
