@@ -121,6 +121,11 @@ A good chunk of these addresses were manually found using the tutorial provided 
 **0x76994**
 > Levels\MHZ\Palettes\End Boss.bin
 
+## Flying Battery Zone
+### Act 1 Fg
+**0x52DC0**
+> Levels\FBZ\Palettes\FBZ1.bin
+
 ### Flying Battery Airship (MHZ-FBZ Transition Cutscene)
 **0x550DE**
 > Levels\MHZ\Palettes\Act 2 Ship.bin
